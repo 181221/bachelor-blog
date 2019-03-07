@@ -25,24 +25,25 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          'gatsby-remark-copy-linked-files',
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,
+              linkImagesToOriginal: true,
+              sizeByPixelDensity: true,
             },
           },
           {
-            resolve: `gatsby-remark-responsive-iframe`,
+            resolve: `gatsby-remark-prismjs`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
+              classPrefix: 'language-',
             },
           },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
+          'gatsby-remark-smartypants',
         ],
       },
     },
