@@ -1,9 +1,14 @@
 ---
 title: Joe and Pee - blog
 date: '2019-01-27'
+path: '/test'
+author: 'Peder '
+draft: false
+tags: 'test'
+ogKeywords: 'test'
 ---
 
 ### Hello World.
 
 dette er en test
-![alt text](https://raw.githubusercontent.com/181221/h181221.github.io/master/bachelor-assets/parseImage.PNG 'Logo Title Text 1')
+![alt text](parseImage.PNG 'Logo Title Text 1')
