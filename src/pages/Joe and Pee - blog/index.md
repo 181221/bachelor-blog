@@ -12,4 +12,4 @@ ogKeywords: 'test'
 
 dette er en test
 ny test
-![alt text](parseImage.PNG 'Logo Title Text 1')
+![parseImage](parseImage.png)
