@@ -4,10 +4,12 @@ date: '2019-03-07'
 author: 'Peder '
 draft: false
 tags: 'test'
+path: '/bachelor/test'
 ogKeywords: 'test'
 ---
 
 ### Hello .
 
 dette er en test
+ny test
 ![alt text](parseImage.PNG 'Logo Title Text 1')
