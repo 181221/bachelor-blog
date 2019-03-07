@@ -1,39 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sbanken Bachelor blog]]></title><description><![CDATA[Blogg for bacheloroppgaven]]></description><link>https://github.com/181221/bachelor-blogg</link><generator>RSS for Node</generator><lastBuildDate>Thu, 07 Mar 2019 20:20:31 GMT</lastBuildDate><item><title><![CDATA[Joe and Pee - blog]]></title><description><![CDATA[Hello World. dette er en test
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sbanken Bachelor blog]]></title><description><![CDATA[Blogg for bacheloroppgaven]]></description><link>https://github.com/181221/bachelor-blogg</link><generator>RSS for Node</generator><lastBuildDate>Thu, 07 Mar 2019 20:55:29 GMT</lastBuildDate><item><title><![CDATA[Joe and Pee - blog]]></title><description><![CDATA[Hello World. dette er en test
 ]]></description><link>https://github.com/181221/bachelor-blogg/Joe and Pee - blog/</link><guid isPermaLink="false">https://github.com/181221/bachelor-blogg/Joe and Pee - blog/</guid><pubDate>Sun, 27 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Hello World.&lt;/h3&gt;
 &lt;p&gt;dette er en test
-
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/0a5a3/parseImage.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 25.25337837837838%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABJ0AAASdAHeZh94AAAAy0lEQVQY042Q627DIAyF8/6PuCap2qbqJWsJEAgx4DNMp7WTpqn+gw3G5/Np8EakxD85EcHNBKMDZkvlLf/qbXJmrCGD1gzJY8y1jsRg5no/XnMZkOC9h1IKx8Gi3YzY7zSck8G+9HEVbrxL2PYTuu4OaxecTwZdqzAcDEIIOB1ntKXuOw3v4p8bHPa6/tETPQiJhDBVIlGRPJKswvX8HBOsEUKHaVK4Xgw2HzdcznMRXYoFS+3LQvifd/xtnYg+/UxV0BXaNTwgXuMLnTWGNiFY1fcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;alt text&quot;
-        title=&quot;Logo Title Text 1&quot;
-        src=&quot;/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/fb8a0/parseImage.png&quot;
-        srcset=&quot;/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/1a291/parseImage.png 148w,
-/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/2bc4a/parseImage.png 295w,
-/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/fb8a0/parseImage.png 590w,
-/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/526de/parseImage.png 885w,
-/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/fa2eb/parseImage.png 1180w,
-/bachelor-blogg/static/8a58525f83f2e1ba1c75654c54b38d1b/0a5a3/parseImage.png 1184w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[tester]]></title><description><![CDATA[Hello tester.]]></description><link>https://github.com/181221/bachelor-blogg/tester/</link><guid isPermaLink="false">https://github.com/181221/bachelor-blogg/tester/</guid><pubDate>Sat, 26 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Hello tester.&lt;/h3&gt;</content:encoded></item></channel></rss>
+&lt;img src=&quot;https://raw.githubusercontent.com/181221/h181221.github.io/master/bachelor-assets/parseImage.PNG&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[tester]]></title><description><![CDATA[Hello tester.]]></description><link>https://github.com/181221/bachelor-blogg/tester/</link><guid isPermaLink="false">https://github.com/181221/bachelor-blogg/tester/</guid><pubDate>Sat, 26 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Hello tester.&lt;/h3&gt;</content:encoded></item></channel></rss>
