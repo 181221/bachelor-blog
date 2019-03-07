@@ -25,29 +25,18 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          'gatsby-remark-copy-linked-files',
           {
-            resolve: `gatsby-remark-images`,
+            resolve: 'gatsby-remark-copy-linked-files',
             options: {
-              maxWidth: 590,
-              linkImagesToOriginal: true,
-              sizeByPixelDensity: true,
+              ignoreFileExtensions: [],
             },
           },
-          {
-            resolve: `gatsby-remark-prismjs`,
-            options: {
-              classPrefix: 'language-',
-            },
-          },
-          'gatsby-remark-smartypants',
         ],
       },
-    },
-    `gatsby-transformer-sharp`,
+    }`gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
