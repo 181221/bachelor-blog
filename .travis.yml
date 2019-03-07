@@ -12,7 +12,7 @@ deploy:
   local-dir: public
   keep-history: true
   on:
-    branch: gh-pages
+    branch: master
 before_script:
   - 'yarn global add gatsby'
   - 'yarn install'
