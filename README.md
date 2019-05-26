@@ -5,7 +5,3 @@ categories: main
 ---
 
 <BlogPosts />
-
-# Bachelor oppgaven
-
-asdasd

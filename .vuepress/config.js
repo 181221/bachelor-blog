@@ -9,7 +9,7 @@ module.exports = {
       { text: "Sbanken", link: "https://sbanken.no/" }
     ],
     sidebar: {
-      "/": ["/uke-10/"]
+      "/": ["/uke-4-10/","/uke-10/","/uke-11/","/uke-12/","/uke-13/","/uke-14/","/uke-15/","/uke-16/","/uke-17/","/uke-18/","/uke-20/","/uke-21/"]
     },
     lastUpdated: "Sist oppdatert",
     serviceWorker: {
