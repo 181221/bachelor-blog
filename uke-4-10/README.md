@@ -1,5 +1,5 @@
 ---
-title: uke 4 til 10 - Research og utvikling av algoritmer
+title: Uke 4 til 10 - Research og utvikling av algoritmer
 date: "2019-01-21"
 ---
 

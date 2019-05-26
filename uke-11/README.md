@@ -1,5 +1,5 @@
 ---
-title: Uke 11 - Klientsiden.
+title: Uke 11 - Klientsiden
 date: "2019-03-11"
 ---
 

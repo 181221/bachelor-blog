@@ -1,5 +1,5 @@
 ---
-title: Uke 10 - Oppstart og integrasjon i nettbanken.
+title: Uke 10 - Oppstart og integrasjon i nettbanken
 date: "2019-03-05"
 ---
 
